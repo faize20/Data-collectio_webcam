@@ -11,5 +11,5 @@ Dalam folder DATA ada 3 folder lain seperti:
 * B
 * C
 
-* BOLEH TAMBAH folder lain seperti D,E,F.....
-* jika mahu kumpulkan data jenis B,tukar line coding folder = "Data/A" kepada folder = "Data/B"
+# BOLEH TAMBAH folder lain seperti D,E,F.....
+# jika mahu kumpulkan data jenis B,tukar line coding folder = "Data/A" kepada folder = "Data/B"
