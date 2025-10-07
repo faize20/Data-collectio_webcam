@@ -1,10 +1,10 @@
-#Pastikan guna webcam .
+# Pastikan guna webcam .
 Tukar cap = cv2.VideoCapture(1) kepada cap = cv2.VideoCapture(0) jika guna webcam laptop.
 
 * (0) > untuk webcam laptop @ kamera pertama.
 * (1) > untuk webcam lain @ kamera kedua.
 
-#Pastikan buat folder ditulis nama "Data".
+# Pastikan buat folder ditulis nama "Data".
 Dalam folder DATA ada 3 folder lain seperti:
 
 * A
